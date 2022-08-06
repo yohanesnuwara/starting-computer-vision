@@ -7,8 +7,8 @@ I'm hosting some of my lectures on introductory computer vision here in GitHub s
 ### Contents:
 
 * Image Processing and Segmentation with NumPy, Matplotlib, and OpenCV 👉 [Notebook](https://github.com/yohanesnuwara/starting-computer-vision/blob/main/Lesson_01_Basic_Image_Processing.ipynb)
-* Image Classification with Keras: Dense Neural Network (DNN) and Convolutional Neural Network (CNN) 👉 [Notebook](https://github.com/yohanesnuwara/starting-computer-vision/blob/main/Lesson_02_Neural_Networks_with_Tensorflow.ipynb)
-* Transfer Learning for Image Classification with Keras CNN 👉 [Notebook](https://github.com/yohanesnuwara/starting-computer-vision/blob/main/Lesson_03_Image_Classification.ipynb)
+* Basics of Neural Networks with Keras: DNN and CNN 👉 [Notebook](https://github.com/yohanesnuwara/starting-computer-vision/blob/main/Lesson_02_Neural_Networks_with_Tensorflow.ipynb)
+* Image Classification using CNN with Keras 👉 [Notebook](https://github.com/yohanesnuwara/starting-computer-vision/blob/main/Lesson_03_Image_Classification.ipynb)
 * Object Detection with PyTorch and YOLOv5 👉 [Notebook](https://github.com/yohanesnuwara/starting-computer-vision/blob/main/Lesson_05_Object_Detection.ipynb)
 
 **More to add !**
